@@ -112,7 +112,7 @@ html, body {
   height: 80px;
   bottom: 10%;
   left: 50%;
-  opacity: .07;
+  opacity: .3;
 }
 
 .friend2 {
@@ -120,7 +120,7 @@ html, body {
   height: 50px;
   bottom: 45%;
   left: 22%;
-  opacity: .1;
+  opacity: .3;
 }
 
 .friend3 {
@@ -136,7 +136,7 @@ html, body {
   height: 100px;
   bottom: 25%;
   right: 2%;
-  opacity: .1;
+  opacity: .4;
 }
 
 .friend5 {
@@ -155,6 +155,23 @@ html, body {
   opacity: .5;
 }
 
+
+#bottom_link_wrapper{
+  font-size: 24px;
+  bottom: 0px;
+  position: absolute;
+  background: white;
+  opacity: 0.55;
+  height: 50px;
+  width: 100%;
+  padding-left: 50px;
+} 
+#bottom_link{
+  font-size: 36px;
+  line-height: 50px;
+  color: gray;
+  opacity: 0.9;
+}
 
 /* Animations */
 
